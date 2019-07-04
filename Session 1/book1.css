@@ -1,0 +1,18 @@
+body{
+	font: Arial;
+	font-size: 100%;
+	width: 300px;
+	margin: 0 auto;
+	padding: 1em;
+	float: left;
+}
+h1{
+	color: blue;
+	float: center;
+}
+
+img{
+	float: right;
+	width: 120px;
+}
+
