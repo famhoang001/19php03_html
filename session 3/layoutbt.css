@@ -1,0 +1,55 @@
+#Header{
+	border: 1px solid red;
+	height: : 100px;
+	text-align: center;
+	line-height: 100px;
+	background: blue;
+}
+#Content{
+	border: 1px solid red;
+	height: : 400px;
+	text-align: center;
+	line-height: 400px;
+}
+#Footer{
+	border: 1px solid red;
+	height: : 100px;
+	text-align: center;
+	line-height: 100px;
+	background: blue;
+	clear: both;
+	
+}
+#leftpane{
+	width: 20%; 
+	float: left;
+	border: 1px solid red;
+	background: green;
+}
+#body{
+	width: 59%;
+	float: left;
+	border: 1px solid red;
+}
+#rightpane{
+	width: 20%;
+	float: left;
+	border: 1px solid red;
+	background: green;
+}
+#Prebody{
+	height: 100px;
+	line-height: 100px;
+	border: 1px solid red;
+}
+#Body{
+	height: 195px;
+	line-height: 195px;
+	border: 1px solid red;
+}
+#PostBody{
+	height: 100px;
+	line-height: 100px;
+	border: 1px solid red;
+
+}
