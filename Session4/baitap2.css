@@ -1,0 +1,29 @@
+#wapper1{
+	border: 1px solid black;
+	width: 300px;
+	padding-left: 30px;
+}
+#home{
+	border: 3px solid blue;
+	width: 200px;
+	padding-left: 40px;
+	margin: 10px;
+}
+#getickets{
+	border: 3px solid blue;
+	width: 200px;
+	padding-left: 40px;
+	margin: 10px;
+}
+#member{
+	border: 3px solid blue;
+	width: 200px;
+	padding-left: 40px;
+	margin: 10px;
+}
+#aboutus{
+	border: 3px solid blue;
+	width: 200px;
+	padding-left: 40px;
+	margin: 10px;
+}

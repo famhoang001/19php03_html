@@ -1,0 +1,26 @@
+#wapper1{
+	border: 1px dotted green;
+	text-align: center;
+	height: 330px;
+	margin: 20px;
+}
+#wapper2{
+	border: 2px solid red;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 15px;
+	padding-right: 30px;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 30px;
+	height: 230px;
+
+}
+#header{
+	border: 2px dotted blue;
+	margin: 30px;
+}
+#content{
+	border: 2px dotted blue;
+	margin: 30px;
+}

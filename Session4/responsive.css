@@ -1,0 +1,22 @@
+#content{
+	border: 1px solid green;
+	height: 200px;
+}
+#content-1, #content-2, #content-3{
+	border: 1px solid green;
+	float: left;
+	width: 33%;
+	height: 200px;
+	line-height: 200px;
+	text-align: center;
+}
+#content-3{
+	border-right: none;
+}
+
+
+@media screen and (max-width: 600px) {
+	body{
+		background-color: red;
+	}
+}
