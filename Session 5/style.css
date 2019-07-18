@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: #ffffcc;	
+}
+@font-face{
+	font-family: whitelist;
+	src: url(Whitelist.otf);
+}
+.demo1{
+	color: red;
+	font-family: whitelist;
+	font-size: 60px;
+	text-indent: 20px; /*Thut vao dau dong*/
+	text-align: justify; /*Canh deu 2 ben*/
+	text-shadow: 4px 4px 4px red;
+	text-align: center;
+}
+.content{
+	color: green;
+	padding-top: 10px;
+	padding-left: 20px;
+	text-indent: 30px;
+	text-align: justify;
+	text-transform: uppercase;
+}

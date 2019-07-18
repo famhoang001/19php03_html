@@ -1,0 +1,30 @@
+body {
+	background: #ffffcc;
+	width: 1000px;
+	height: 550px;
+	border: 2px solid black;
+}
+#header{
+	height: 100px;
+
+}
+#header1{
+	width: 30%;
+	float: left;
+}
+#header2{
+	width: 69%;
+	float:left;
+	text-align: justify;
+}
+#content{
+	margin-top: 20px;
+	padding: 30px;
+}
+img{
+	float: left;
+}
+#footer {
+	float: right;
+	text-align: justify;
+}
