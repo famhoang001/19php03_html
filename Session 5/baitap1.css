@@ -20,7 +20,7 @@ img{
 	width: 69%;
 	float: left;
 	margin-left: 50px;
-	text-shadow: 2px 2px red;
+	/*text-shadow: 2px 2px red;*/
 }
 #content {
 	height: 500px;
