@@ -1,0 +1,28 @@
+body {
+	background: #ffffcc;
+}
+ul li {
+	list-style-type: circle;
+	/*background: #ffffcc;*/
+	/*list-style-image: url(icon.ico);*/
+}
+ol li {
+	list-style-type: decimal-leading-zero;
+}
+a {
+	text-decoration: none;
+}
+a: link {
+	color: green;
+}
+a: visited {
+	color: red;
+}
+a: hover {
+	color: yellow;
+	margin-left: 10px;
+	font-size: 20px;
+}
+#content1, #content2, #content3 {
+	height: 300px;
+}

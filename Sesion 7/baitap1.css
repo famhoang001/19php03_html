@@ -1,0 +1,36 @@
+body {
+	border: 1px solid black;
+	width: 300px;
+	height: 300px;
+	margin-left: 20px;
+	box-shadow: 4px 4px 6px grey;
+	border-bottom: 2px;
+	border-right: none;
+}
+h1 {
+	padding-left: 15px;
+}
+ul {
+	margin-left: 5px;
+	padding-left: 25px;
+}
+ul li {
+	list-style-type: none;
+	border: 2px solid blue;
+	padding-left: 20px;
+	margin: 10px;
+	width: 200px;
+	height: 40px;
+	line-height: 40px;
+	font-size: 22px;
+
+}
+a {
+	text-decoration: none;
+}
+
+.member {
+	background: #ffcccc;
+	font-weight: bold;
+
+}

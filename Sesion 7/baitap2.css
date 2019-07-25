@@ -1,0 +1,38 @@
+body {
+	margin: 20px 20px;
+}
+#menu {
+	border: 2px solid black;
+	background: blue;
+	height: 60px;
+	width: 835px;
+
+}
+ul {
+	margin: 0 auto;
+	padding-left: 1px;
+	float: left;
+}
+ul li {
+	list-style-type: none;
+	color: white;
+	border: 2px solid white;
+	display: block;
+	float: left;
+	margin: 2px;
+	width: 200px;
+	text-align: center;
+	height: 50px;
+	line-height: 50px;
+
+
+}
+a {
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+	font-weight: bold;
+}
+.member {
+	color: yellow;
+}
