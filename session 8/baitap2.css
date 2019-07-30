@@ -1,7 +1,7 @@
 body {
 	background-image: linear-gradient(to bottom, white,#ada);
-	height: 850px;
-	width: 1200px;
+	height: 750px;
+	max-width: 900px;
 	margin: 0 auto;
 	margin-top: 10px;
 	/*border: 1px solid black;
@@ -20,7 +20,7 @@ body {
 	/*border: 2px solid blue;*/
 }
 #header {
-	height: 130px;
+	height: 120px;
 	padding: 5px;
 	/*border-bottom: 2px solid black;*/
 }
@@ -52,6 +52,11 @@ body {
 img{
 	float: left;
 	padding-top: 10px;
+	width: 45%;
+}
+#logo {
+	width: 30%;
+
 }
 #banner {
 	width: 69%;
@@ -62,12 +67,13 @@ img{
 #content {
 	margin: 0 auto;
 	height: 420px;
+	width: 100%;
 
 }
 #content1 {
 	width: 54%;
 	height: 95%;
-	margin-top: 40px;
+	margin-top: 20px;
 	border-right: 1px solid black;
 	float: left;
 	padding-left: 10px;
@@ -75,21 +81,21 @@ img{
 	
 }
 #content2 {
-	width: 43%;
+	width: 40%;
 	height: 95%;
-	margin-top: 40px;
+	margin-top: 20px;
 	border-left: 1px solid black;
 	float: left;
 	padding-left: 10px;
-	margin: 40px auto;
+	margin: 20px auto;
 }
 #footer {
-	height: 50px;
+	height: 20px;
 	text-align: right;
 	float: right;
 	clear: both;
 	border-top: 2px solid black;
 	width: 100%;
-	line-height: 50px;
+	line-height: 30px;
 }
 
