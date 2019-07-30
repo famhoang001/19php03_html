@@ -1,6 +1,6 @@
 body {
 	background-image: linear-gradient(to bottom, white,#ada);
-	height: 750px;
+	height: 780px;
 	max-width: 900px;
 	margin: 0 auto;
 	margin-top: 10px;
@@ -39,15 +39,12 @@ body {
 
 }
 #menu ul li a {
-	border-right: 1px solid black;
+	border-right: 2px solid orange;
 	text-decoration: none;
 	padding-right: 10px;
 	font-weight: bold;
 	font-size: 20px;
 	padding-bottom: 5px;
-	margin: 0 auto;
-
-
 }
 img{
 	float: left;
@@ -65,16 +62,16 @@ img{
 	/*text-shadow: 2px 2px red;*/
 }
 #content {
-	margin: 0 auto;
 	height: 420px;
 	width: 100%;
+	margin: 5px;
 
 }
 #content1 {
 	width: 54%;
-	height: 95%;
+	height: 98%;
 	margin-top: 20px;
-	border-right: 1px solid black;
+	border-right: 2px solid orange;
 	float: left;
 	padding-left: 10px;
 	padding-right: 10px;
@@ -82,20 +79,21 @@ img{
 }
 #content2 {
 	width: 40%;
-	height: 95%;
+	height: 98%;
 	margin-top: 20px;
-	border-left: 1px solid black;
+	/*border-left: 1px solid black;*/
 	float: left;
 	padding-left: 10px;
 	margin: 20px auto;
 }
 #footer {
-	height: 20px;
+	height: 40px;
 	text-align: right;
 	float: right;
 	clear: both;
-	border-top: 2px solid black;
+	border-top: 2px solid orange;
 	width: 100%;
-	line-height: 30px;
+	line-height: 20px;
+	margin-top: 10px;
 }
 
