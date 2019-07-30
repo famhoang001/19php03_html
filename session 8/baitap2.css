@@ -1,0 +1,95 @@
+body {
+	background-image: linear-gradient(to bottom, white,#ada);
+	height: 850px;
+	width: 1200px;
+	margin: 0 auto;
+	margin-top: 10px;
+	/*border: 1px solid black;
+	border-radius: 20px;
+	box-shadow: 4px 4px 6px black;*/
+}
+#container {
+	width: 90%;
+	height: 90%;
+	padding: 15px ;	 
+	border: 1px solid black;
+	border-radius: 20px;
+	box-shadow: 4px 4px 6px black;
+	background: white;
+	/*background: white;*/
+	/*border: 2px solid blue;*/
+}
+#header {
+	height: 130px;
+	padding: 5px;
+	/*border-bottom: 2px solid black;*/
+}
+#menu {
+	height: 50px;
+	border-top: 2px solid orange;
+	border-bottom: 2px solid orange;
+	margin-top: 5px;
+}
+#menu ul li {
+	float: left;
+	list-style-type: none;
+	/*padding-left: 15px;*/
+	padding-right: 15px;
+
+
+}
+#menu ul li a {
+	border-right: 1px solid black;
+	text-decoration: none;
+	padding-right: 10px;
+	font-weight: bold;
+	font-size: 20px;
+	padding-bottom: 5px;
+	margin: 0 auto;
+
+
+}
+img{
+	float: left;
+	padding-top: 10px;
+}
+#banner {
+	width: 69%;
+	float: left;
+	margin-left: 50px;
+	/*text-shadow: 2px 2px red;*/
+}
+#content {
+	margin: 0 auto;
+	height: 420px;
+
+}
+#content1 {
+	width: 54%;
+	height: 95%;
+	margin-top: 40px;
+	border-right: 1px solid black;
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	
+}
+#content2 {
+	width: 43%;
+	height: 95%;
+	margin-top: 40px;
+	border-left: 1px solid black;
+	float: left;
+	padding-left: 10px;
+	margin: 40px auto;
+}
+#footer {
+	height: 50px;
+	text-align: right;
+	float: right;
+	clear: both;
+	border-top: 2px solid black;
+	width: 100%;
+	line-height: 50px;
+}
+
